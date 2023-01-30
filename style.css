@@ -4,3 +4,9 @@ h1{
     color: darkturquoise;
     line-height: 40px;
 }
+h2{
+    text-align: center;
+    color: darkorchid;
+    background-color: darkturquoise;
+    line-height: 40px;
+}
